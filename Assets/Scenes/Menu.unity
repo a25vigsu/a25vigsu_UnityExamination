@@ -741,8 +741,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: SceneChange, Assembly-CSharp
+      - m_Target: {fileID: 1951343976}
+        m_TargetAssemblyTypeName: IntroChange, Assembly-CSharp
         m_MethodName: NextScene
         m_Mode: 1
         m_Arguments:
